@@ -1,13 +1,13 @@
 # Movie Recommender System
 
 
-## About Data:
-## Dataset Name: 
+## Data:
+### Dataset Name: 
 Investigating Serendipity in Recommender Systems Based on Real User Feedback
-## Source: 
+### Source: 
 https://grouplens.org/datasets/serendipity-2018/
 
-## Data Summary: 
+### Data Summary: 
 GroupLens Research group at the University of Minnesota and the University of Jyväskylä conducted an experiment in MovieLens (http://movielens.org) where users were asked how serendipitous particular movies were to them. This dataset contains user answers to GroupLens’ questions and additional information, such as past ratings of these users, recommendations they received before replying to the survey and movie descriptions. The dataset was generated on January 15, 2018. The data are contained in the files ‘answers.csv’, ‘movies.csv’, ‘recommendations.csv’, ‘tag_genome.csv’, ‘tags.csv’ and ‘training.csv’. Overall, there are 10,000,000 ratings (2,150 ratings stored in `answers.csv` and 9,997,850 in ‘training.csv’).
 
 ## Problem Description: 
